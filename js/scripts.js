@@ -5,7 +5,7 @@ function drawTree(pietra) {
 		var star = '';
 		//rysowanie gwiazdek
 		for(var j=1;j<=i;j++) {
-			star = star + " *   ";
+			star = star + "*"; 
 		}
 		console.log(star);
 	}
